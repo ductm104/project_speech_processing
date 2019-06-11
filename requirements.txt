@@ -1,0 +1,7 @@
+pyaudio
+librosa
+pickle
+sounddevice
+numpy
+wave
+ai2thor
