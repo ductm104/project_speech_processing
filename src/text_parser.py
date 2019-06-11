@@ -18,9 +18,9 @@ class Parser:
         elif word == 'lui':
             return 'lui'
         elif word == 'trai':
-            return 'trai'
+            return 'quaytrai'
         elif word == 'phai':
-            return 'phai'
+            return 'quayphai'
         elif word == 'len':
             return 'nhinlen'
         elif word == 'xuong':
